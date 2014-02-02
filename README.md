@@ -22,4 +22,4 @@ Ports welcome.
 To load GLOS, fire up scheme48, open the file test.scm, and paste the
 first five lines from test.scm at the scheme48 prompt.
 
-Some description of GLOS is in the paper [ref-dyn-patterns.{ps,pdf}](/ref-dyn-patters.pdf)
+Some description of GLOS is in the paper [ref-dyn-patterns.pdf](ref-dyn-patters.pdf)
