@@ -24,6 +24,6 @@ first five lines from test.scm at the scheme48 prompt.
 
 Some description of GLOS is in the paper <a href="ref-dyn-patterns.pdf">ref-dyn-patterns</a>. 
 
-Also, slides in <ahref="proglangsandsofteng.pdf">proglangsandsofteng</a> work through
+Also, slides in <a href="proglangsandsofteng.pdf">proglangsandsofteng</a> work through
 some examples using GLOS.
 
